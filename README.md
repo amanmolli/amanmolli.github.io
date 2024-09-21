@@ -10,4 +10,4 @@ We gather to have fun playing music together, to share musical knowledge and exp
 
 We welcome interested newcomers to join in, regardless of musical experience, and using any kind of instrument (strings, percussion, wind, voice). 
 
-Information about upcoming sessions can be found [here](!https://radar.squat.net/en/aman-molli)
+Information about upcoming sessions can be found [here](https://radar.squat.net/en/aman-molli)
