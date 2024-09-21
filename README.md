@@ -1,5 +1,7 @@
 # Aman Molli Webpage
 
+![Aman Molli](banner.png)
+
 Aman Molli is an open collective workshop/course for eastern Med music.
 
 We hold open practice sessions of east Mediterranean music, in which we play genres such as rebetiko and Greek/Balkan/Turkish/Middle Eastern folk music. 
