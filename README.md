@@ -1,5 +1,3 @@
-# Aman Molli Webpage
-
 ![Aman Molli](banner.png)
 
 Aman Molli is an open collective workshop/course for eastern Med music.
